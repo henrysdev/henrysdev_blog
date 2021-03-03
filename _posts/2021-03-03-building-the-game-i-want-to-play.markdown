@@ -40,3 +40,6 @@ After a good bit of thought and research, I concluded that my best bet for creat
 While there is plenty of work left on this project, I have made significant progress six months in and I am still feeling compelled to work on it. I believe the key difference this time around is that I am building **a software project in a domain that I’m passionate about that I can't wait to use myself**.
 
 Since working on a project that inspires me in this way, all of those pesky arguments against building a project seem more like excuses, and I find myself spending contemplative time asking constructive questions about the project itself rather than talking myself out of building it. Thanks for reading!
+
+MIDI Matches Project Repository: [https://github.com/henrysdev/midimatches](https://github.com/henrysdev/midimatches)
+MIDI Matches Development Build (not stable): [https://midimatches.onrender.com/](https://midimatches.onrender.com/)
