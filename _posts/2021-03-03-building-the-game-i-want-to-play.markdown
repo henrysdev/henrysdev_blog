@@ -13,7 +13,7 @@ Skill-wise I am somewhere around low-intermediate, knowing enough to read music 
 
 ### The Idea Graveyard
 
-Around the same time I rediscovered electric piano, I also started to recognize a very persistent and all-to-common thought pattern of mine; **I have an idea for a new piece of software that I deeply want to exist, but I don’t pursue building it because of lack of time + XYZ**. Let me know if any of these sound familiar to you
+Around the same time I rediscovered electric piano, I also started to recognize a very persistent and all-too-common thought pattern of mine; **I have an idea for a new piece of software that I deeply want to exist, but I don’t pursue building it because of lack of time + XYZ**. Let me know if any of these sound familiar to you
 
 > “Someone else has already created something that’s vaguely similar”
 
@@ -29,14 +29,14 @@ This is where my brain typically fought itself. I’d come up with a few of thes
 
 It was about six months ago when I first got the inspiration for MIDI Matches. I can recall a specific time when I was participating in a favorite activity of mine; turning on an old funk song and playing my own keyboard over it, making it up as I go.
 
-I was having such a great time jamming out by myself while sheltered in place that I had a very interesting thought; **Improvisational keyboard is such a blast. I want to have a shared experience with others around this activity that does not require being in the same physical space**.
+I was having such a great time jamming out by myself while sheltered in place that I had a very memorable thought; **Improvisational keyboard is such a blast. I want to have a shared experience with others around this activity that does not require being in the same physical space**.
 
-I then had the warm and tingly feeling of realizing that I can build such an experience, and I can build it with software! This kicked off a long brainstorm session of how to implement such a project through the most compelling, accessible, and approachable software medium possible.
+I got a warm and tingly feeling realizing that I can build such an experience myself, and I can build it with software! This kicked off a long brainstorm session of how to implement such a project through the most compelling, accessible, and approachable software medium possible.
 
-After a good bit of thought and research, I concluded that my best bet for creating the experience I desired would be a web browser-based online multiplayer game where players can plug their MIDI keyboards into their computers and play scored games with each other. Thus, MIDI Matches was born.
+After a good bit of thought and research, I concluded that my best bet for creating the experience I desired would be a web browser-based online multiplayer game where players can plug their MIDI keyboards into their computers and play scored games with each other in realtime. Thus, MIDI Matches was born.
 
 ### So Far So Good!
 
-While there is plenty of work left on this project, I have made significant progress six months in and I am still feeling compelled to work on it. I believe the key difference this time around is that I am building **a software project in a domain that I’m passionate about that I am also eager to use with other people**.
+While there is plenty of work left on this project, I have made significant progress six months in and I am still feeling compelled to work on it. I believe the key difference this time around is that I am building **a software project in a domain that I’m passionate about that I can't wait to use myself**.
 
 Since working on a project that inspires me in this way, all of those pesky arguments against building a project seem more like excuses, and I find myself spending contemplative time asking constructive questions about the project itself rather than talking myself out of building it. Thanks for reading!
