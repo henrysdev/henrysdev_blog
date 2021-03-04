@@ -7,7 +7,7 @@ categories: jekyll update
 
 ### A New Hobby
 
-Around the start of quarantine I discovered that there are few things that bring me more joy than playing and creating music on my electric piano. I was reunited with this instrument after a long hiatus and I’ve had a wonderful time getting back into it.
+Around the start of the pandemic I discovered that there are few things that bring me more joy than playing and creating music on my electric piano. I was reunited with this instrument after a long hiatus and I’ve had a wonderful time getting back into it.
 
 Skill-wise I am somewhere around low-intermediate, knowing enough to read music and annoy roommates with the same ten songs. I enjoy playing keyboard immensely as a hobby and I find it very rewarding as I continue to improve.
 
@@ -19,7 +19,7 @@ Around the same time I rediscovered electric piano, I also started to recognize 
 
 > “Nobody will use it except for me”
 
-> “It’s too big of a project for one person”
+> “The project is too big for just one person”
 
 > “It’s difficult to monetize and therefore it’s a pointless endeavour”
 
@@ -41,5 +41,5 @@ While there is plenty of work left on this project, I have made significant prog
 
 Since working on a project that inspires me in this way, all of those pesky arguments against building a project seem more like excuses, and I find myself spending contemplative time asking constructive questions about the project itself rather than talking myself out of building it. Thanks for reading!
 
-* MIDI Matches Project Repository: [https://github.com/henrysdev/midimatches](https://github.com/henrysdev/midimatches)
-* MIDI Matches Development Build (not stable!): [https://midimatches.onrender.com/](https://midimatches.onrender.com/)
+- MIDI Matches Project Repository: [https://github.com/henrysdev/midimatches](https://github.com/henrysdev/midimatches)
+- MIDI Matches Development Build (not stable!): [https://midimatches.onrender.com/](https://midimatches.onrender.com/)
