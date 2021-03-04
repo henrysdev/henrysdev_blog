@@ -2,7 +2,7 @@
 layout: post
 title: "Building the Game I Want to Play"
 date: 2021-03-03 13:32:13 -0500
-categories: jekyll update
+categories: posts
 ---
 
 ### A New Hobby

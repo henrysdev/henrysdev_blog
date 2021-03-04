@@ -2,7 +2,7 @@
 layout: post
 title: "Why I Chose Elixir for My Multiplayer Game"
 date: 2021-03-03 17:32:13 -0500
-categories: jekyll update
+categories: posts
 ---
 
 Most developers are familiar with the phrase "picking the right tool for the job" when it comes to choosing a strong programming language for their use case. However, "right" often means "best" or "one of the best", since in context the title of "right" is relative to the other tools being compared against. Then there are times when a tool is non-comparitively such a great fit at solving a given class of problems that using said technology will make your life significantly easier.
