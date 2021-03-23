@@ -1,19 +1,21 @@
 ---
 layout: post
-title: "Why I Chose Elixir for My Multiplayer Game"
+title: "Why I Chose Elixir for My Multiplayer Game Backend"
 date: 2021-03-03 17:32:13 -0500
 categories: posts
 ---
 
-Most developers are familiar with the phrase "picking the right tool for the job" when it comes to choosing a strong programming language for their use case. However, "right" often means "best" or "one of the best", since in context the title of "right" is relative to the other tools being compared against. Then there are times when a tool is non-comparitively such a great fit at solving a given class of problems that using said technology will make your life significantly easier.
+# TODO SOMETHING WITH? Have you ever had the experience of putting on a pair of warm sockets fresh from the dryer?
 
-Have you ever put on a pair of warm socks fresh from the dryer and felt like everything was right in the world? As a developer who elected to build my multiplayer game server in Elixir, I'm certainly not unfamiliar with this feeling.
+Most developers are familiar with the phrase "picking the right tool(s) for the job" when it comes to choosing a good technology stack for their use case. While I don't believe there is a single "right" set of technologies for a given use case, my experience using Elixir to build a browser-based multiplayer game backend has playfully challenged this judgement against speaking in absolutes.
 
-Elixir fanboying aside, I hope to cover several key reasons why I chose Elixir as the backbone for MIDI Matches, the multiplayer browser game that I am building.
+I will be covering several key reasons why I chose Elixir as the backbone for my multiplayer game and why it has served the project very well thus far.
 
-### The Use Case
+### Use Case Summary
 
-In a nutshell, MIDI Matches is browser-based multiplayer piano game that revolves around the mechanic of players organized in rooms using recording and submitting improv keyboard samples in lockstep. These recordings are then played back and judged/voted on by the other players in the room. Players with the most votes win.
+The game that I am building is an improvisational piano game that can be played with a MIDI-capable piano keyboard or your computer keyboard. The core game mechanic is very straight forward; a group of players all hear a looped music sample that is played, then independently record improvisational piano solos over said sample. After recording, all players hear each others' (anonymized) recordings and vote for their favorite.
+
+// TODO explain why you have the requirements before laying them out in a list. Ex: "Because of accessibility I wanted it to be a browser game" - this makes it obvious why you have a requirement for websocket support, for instance.
 
 From the get go I had some high-level requirements in mind:
 

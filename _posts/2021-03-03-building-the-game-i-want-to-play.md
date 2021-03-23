@@ -27,13 +27,13 @@ This is where my brain typically fought itself. I’d come up with a few of thes
 
 ### Novel Inspiration
 
-It was about six months ago when I first got the inspiration for MIDI Matches. I can recall a specific time when I was participating in a favorite activity of mine; turning on an old funk song and playing my own keyboard over it, making it up as I go.
+It was about six months ago when I first got the inspiration for Midi Matches. I can recall a specific time when I was participating in a favorite activity of mine; turning on an old funk song and playing my own keyboard over it, making it up as I go.
 
 I was having such a great time jamming out by myself while sheltered in place that I had a very memorable thought; **Improvisational keyboard is such a blast. I want to have a shared experience with others around this activity that does not require being in the same physical space**.
 
 I got a warm and tingly feeling realizing that I can build such an experience myself, and I can build it with software! This kicked off a long brainstorm session of how to implement such a project through the most compelling, accessible, and approachable software medium possible.
 
-After a good bit of thought and research, I concluded that my best bet for creating the experience I desired would be a web browser-based online multiplayer game where players can plug their MIDI keyboards into their computers and play scored games with each other in realtime. Thus, MIDI Matches was born.
+After a good bit of thought and research, I concluded that my best bet for creating the experience I desired would be a web browser-based online multiplayer game where players can plug their MIDI keyboards into their computers and play scored games with each other in realtime. Thus, Midi Matches was born.
 
 ### So Far So Good!
 
@@ -41,5 +41,5 @@ While there is plenty of work left on this project, I have made significant prog
 
 Since working on a project that inspires me in this way, all of those pesky arguments against building a project seem more like excuses, and I find myself spending contemplative time asking constructive questions about the project itself rather than talking myself out of building it. Thanks for reading!
 
-- MIDI Matches Project Repository: [https://github.com/henrysdev/midimatches](https://github.com/henrysdev/midimatches)
-- MIDI Matches Development Build (not stable!): [https://midimatches.onrender.com/](https://midimatches.onrender.com/)
+- Midi Matches Project Repository: [https://github.com/henrysdev/midimatches](https://github.com/henrysdev/midimatches)
+- Midi Matches Development Build (not stable!): [https://midimatches.onrender.com/](https://midimatches.onrender.com/)
