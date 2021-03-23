@@ -5,7 +5,9 @@ date: 2021-03-03 17:32:13 -0500
 categories: posts
 ---
 
-Have you ever had the luxury of putting on a pair of warm sockets fresh from the dryer? Most developers are familiar with the phrase "picking the right tool(s) for the job" when it comes to choosing a good technology stack for their use case. While I don't believe there is a single "right" set of technologies for a given use case, my experience using Elixir to build a browser-based multiplayer game backend has playfully challenged this judgement against speaking in absolutes.
+# TODO SOMETHING WITH? Have you ever had the experience of putting on a pair of warm sockets fresh from the dryer?
+
+Most developers are familiar with the phrase "picking the right tool(s) for the job" when it comes to choosing a good technology stack for their use case. While I don't believe there is a single "right" set of technologies for a given use case, my experience using Elixir to build a browser-based multiplayer game backend has playfully challenged this judgement against speaking in absolutes.
 
 I will be covering several key reasons why I chose Elixir as the backbone for my multiplayer game and why it has served the project very well thus far.
 
