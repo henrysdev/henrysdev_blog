@@ -21,7 +21,7 @@ Around the same time I rediscovered electric piano, I also started to recognize 
 
 > “The project is too big for just one person”
 
-> “It’s difficult to monetize and therefore it’s a pointless endeavour”
+> “It’s difficult to monetize and therefore it’s not a worthwhile endeavour”
 
 This is where my brain typically fought itself. I’d come up with a few of these reasons and shut down my idea. Sometimes my idea would even turn into a bit of code before my brain shut it down, ultimately putting the project to rest among a slew of other abandoned github repositories.
 
